@@ -1,0 +1,15 @@
+.filter-btn {
+    background: none;
+    color: orange;
+    border: none;
+    outline: none;
+    padding: 10px 30px;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 15px;
+}
+.filter-btn:hover {
+    color: #fff;
+    background-color: orange;
+    cursor: pointer;
+}
